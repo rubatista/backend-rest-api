@@ -1,4 +1,4 @@
-import crypto, { createSecretKey } from 'crypto';
+import crypto from 'crypto';
 
 const SECRET = 'RUBATISTA-REST-API';
 
