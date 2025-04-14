@@ -9,7 +9,6 @@ A robust and scalable REST API built with Node.js, Express, and TypeScript, usin
 - [📥 Installation](#-installation)
 - [📚 API Documentation](#-api-documentation)
 - [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
 
 ## 📝 Description
 
@@ -82,3 +81,7 @@ Contributions are welcome! To contribute to this project, follow these steps:
    git push origin feature-name
    ````
 5. Open a Pull Request on GitHub and provide a description of your changes.
+
+
+<br><br>
+***Learned a lot from [this video](https://www.youtube.com/watch?v=b8ZUb_Okxro) — shoutout to the creator!***
